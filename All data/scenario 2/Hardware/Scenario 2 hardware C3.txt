@@ -1,0 +1,50 @@
+[2023-10-14 19:33:55.948] [INFO: Main      ] Starting Contiki-NG-release/v4.4-97-g55dc08aab-dirty
+[2023-10-14 19:33:55.963] [INFO: Main      ] - Routing: RPL Lite
+[2023-10-14 19:33:55.963] [INFO: Main      ] - Net: sicslowpan
+[2023-10-14 19:33:55.973] [INFO: Main      ] - MAC: CSMA
+[2023-10-14 19:33:55.973] [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[2023-10-14 19:33:55.973] [INFO: Main      ] - 802.15.4 Default channel: 26
+[2023-10-14 19:33:55.980] [INFO: Main      ] Node ID: 30720
+[2023-10-14 19:33:55.980] [INFO: Main      ] Link-layer address: 0012.4b00.0f8e.7800
+[2023-10-14 19:33:55.985] [INFO: Main      ] Tentative link-local IPv6 address: fe80::212:4b00:f8e:7800
+[2023-10-14 19:33:55.989] [INFO: CC26xx/CC13xx] TI SmartRF06EB + CC26xx EM
+[2023-10-14 19:33:55.994] [INFO: CC26xx/CC13xx]  RF: Channel 26, PANID 0xABCD
+Time: 85914 ms, Mote ID: 10 - Not reachable yet
+Time: 146242 ms, Mote ID: 10 - Not reachable yet
+Time: 206085 ms, Mote ID: 10 - Not reachable yet
+Time: 266429 ms, Mote ID: 10 - Sending request 0 to fd00::212:4b00:1204:dd96
+Time: 266578 ms, Mote ID: 10 - Received response 'hello 0' from fd00::212:4b00:1204:dd96
+Time: 327234 ms, Mote ID: 10 - Sending request 1 to fd00::212:4b00:1204:dd96
+
+Time: 688062 ms, Mote ID: 10 - Sending request 2 to fd00::212:4b00:1204:dd96
+Time: 688203 ms, Mote ID: 10 - Received response 'hello 2' from fd00::212:4b00:1204:dd96
+Time: 747703 ms, Mote ID: 10 - Sending request 3 to fd00::212:4b00:1204:dd96
+Time: 747867 ms, Mote ID: 10 - Sending request 4 to fd00::212:4b00:1204:dd96
+
+Time: 868375 ms, Mote ID: 10 - Sending request 5 to fd00::212:4b00:1204:dd96
+Time: 868492 ms, Mote ID: 10 - Received response 'hello 5' from fd00::212:4b00:1204:dd96
+Time: 928296 ms, Mote ID: 10 - Received response 'hello 6' from fd00::212:4b00:1204:dd96
+Time: 988742 ms, Mote ID: 10 - Sending request 7 to fd00::212:4b00:1204:dd96
+Time: 988875 ms, Mote ID: 10 - Received response 'hello 7' from fd00::212:4b00:1204:dd96
+Time: 1049734 ms, Mote ID: 10 - Sending request 8 to fd00::212:4b00:1204:dd96
+
+Time: 1409250 ms, Mote ID: 10 - Sending request 9 to fd00::212:4b00:1204:dd96
+Time: 1409390 ms, Mote ID: 10 - Received response 'hello 9' from fd00::212:4b00:1204:dd96
+Time: 1469570 ms, Mote ID: 10 - Sending request 10 to fd00::212:4b00:1204:dd96
+Time: 1469656 ms, Mote ID: 10 - Received response 'hello 10' from fd00::212:4b00:1204:dd96
+Time: 1530460 ms, Mote ID: 10 - Sending request 11 to fd00::212:4b00:1204:dd96
+Time: 1530500 ms, Mote ID: 10 - Received response 'hello 11' from fd00::212:4b00:1204:dd96
+Time: 1589695 ms, Mote ID: 10 - Sending request 13 to fd00::212:4b00:1204:dd96
+Time: 1649921 ms, Mote ID: 10 - Received response 'hello 13' from fd00::212:4b00:1204:dd96
+Time: 1709796 ms, Mote ID: 10 - Sending request 14 to fd00::212:4b00:1204:dd96
+Time: 1709976 ms, Mote ID: 10 - Received response 'hello 14' from fd00::212:4b00:1204:dd96
+Time: 1770289 ms, Mote ID: 10 - Sending request 15 to fd00::212:4b00:1204:dd96
+Time: 1770414 ms, Mote ID: 10 - Received response 'hello 15' from fd00::212:4b00:1204:dd96
+Time: 1829656 ms, Mote ID: 10 - Sending request 16 to fd00::212:4b00:1204:dd96
+Time: 1829773 ms, Mote ID: 10 - Received response 'hello 16' from fd00::212:4b00:1204:dd96
+Time: 1890507 ms, Mote ID: 10 - Sending request 17 to fd00::212:4b00:1204:dd96
+Time: 1890625 ms, Mote ID: 10 - Sending request 18 to fd00::212:4b00:1204:dd96
+Time: 1950789 ms, Mote ID: 10 - Received response 'hello 18' from fd00::212:4b00:1204:dd96
+Time: 2010859 ms, Mote ID: 10 - Sending request 19 to fd00::212:4b00:1204:dd96
+Time: 2070335 ms, Mote ID: 10 - Sending request 20 to fd00::212:4b00:1204:dd96
+Time: 2070429 ms, Mote ID: 10 - Received response 'hello 20' from fd00::212:4b00:1204:dd96

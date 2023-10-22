@@ -1,0 +1,54 @@
+[2023-10-14 19:18:52.003] [INFO: Main      ] Starting Contiki-NG-release/v4.4-97-g55dc08aab-dirty
+[2023-10-14 19:18:52.011] [INFO: Main      ] - Routing: RPL Lite
+[2023-10-14 19:18:52.020] [INFO: Main      ] - Net: sicslowpan
+[2023-10-14 19:18:52.026] [INFO: Main      ] - MAC: CSMA
+[2023-10-14 19:18:52.026] [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[2023-10-14 19:18:52.026] [INFO: Main      ] - 802.15.4 Default channel: 26
+[2023-10-14 19:18:52.042] [INFO: Main      ] Node ID: 32512
+[2023-10-14 19:18:52.048] [INFO: Main      ] Link-layer address: 0012.4b00.0f8e.7f00
+[2023-10-14 19:18:52.048] [INFO: Main      ] Tentative link-local IPv6 address: fe80::212:4b00:f8e:7f00
+[2023-10-14 19:18:52.048] [INFO: CC26xx/CC13xx] TI SmartRF06EB + CC26xx EM
+[2023-10-14 19:18:52.054] [INFO: CC26xx/CC13xx]  RF: Channel 26, PANID 0xABCD
+Time: 30174 ms, Mote ID: 0 - Not reachable yet
+Time: 80363 ms, Mote ID: 0 - Sending request 0 to fd00::212:4b00:1204:dd96
+Time: 80460 ms, Mote ID: 0 - Received response 'hello 0' from fd00::212:4b00:1204:dd96
+Time: 124513 ms, Mote ID: 0 - Sending request 1 to fd00::212:4b00:1204:dd96
+Time: 128610 ms, Mote ID: 0 - Received response 'hello 1' from fd00::212:4b00:1204:dd96
+Time: 176549 ms, Mote ID: 0 - Sending request 2 to fd00::212:4b00:1204:dd96
+Time: 176598 ms, Mote ID: 0 - Received response 'hello 2' from fd00::212:4b00:1204:dd96                                                                                  
+Time: 229523 ms, Mote ID: 0 - Sending request 3 to fd00::212:4b00:1204:dd96
+Time: 229570 ms, Mote ID: 0 - Received response 'hello 3' from fd00::212:4b00:1204:dd96
+Time: 290367 ms, Mote ID: 0 - Sending request 4 to fd00::212:4b00:1204:dd96
+Time: 290398 ms, Mote ID: 0 - Received response 'hello 4' from fd00::212:4b00:1204:dd96
+Time: 350625 ms, Mote ID: 0 - Sending request 5 to fd00::212:4b00:1204:dd96
+Time: 350687 ms, Mote ID: 0 - Received response 'hello 5' from fd00::212:4b00:1204:dd96
+Time: 409765 ms, Mote ID: 0 - Sending request 6 to fd00::212:4b00:1204:dd96
+Time: 409812 ms, Mote ID: 0 - Received response 'hello 6' from fd00::212:4b00:1204:dd96
+Time: 470515 ms, Mote ID: 0 - Sending request 7 to fd00::212:4b00:1204:dd96
+Time: 470570 ms, Mote ID: 0 - Received response 'hello 7' from fd00::212:4b00:1204:dd96
+Time: 530632 ms, Mote ID: 0 - Sending request 8 to fd00::212:4b00:1204:dd96
+Time: 530703 ms, Mote ID: 0 - Received response 'hello 8' from fd00::212:4b00:1204:dd96
+Time: 590117 ms, Mote ID: 0 - Sending request 9 to fd00::212:4b00:1204:dd96
+Time: 590218 ms, Mote ID: 0 - Received response 'hello 9' from fd00::212:4b00:1204:dd96
+Time: 651070 ms, Mote ID: 0 - Sending request 10 to fd00::212:4b00:1204:dd96
+Time: 651132 ms, Mote ID: 0 - Received response 'hello 10' from fd00::212:4b00:1204:dd96
+Time: 710335 ms, Mote ID: 0 - Sending request 11 to fd00::212:4b00:1204:dd96
+Time: 710398 ms, Mote ID: 0 - Received response 'hello 11' from fd00::212:4b00:1204:dd96
+Time: 769937 ms, Mote ID: 0 - Sending request 12 to fd00::212:4b00:1204:dd96
+Time: 770039 ms, Mote ID: 0 - Received response 'hello 12' from fd00::212:4b00:1204:dd96
+Time: 830179 ms, Mote ID: 0 - Sending request 13 to fd00::212:4b00:1204:dd96
+Time: 830218 ms, Mote ID: 0 - Received response 'hello 13' from fd00::212:4b00:1204:dd96
+Time: 890554 ms, Mote ID: 0 - Sending request 14 to fd00::212:4b00:1204:dd96
+Time: 890632 ms, Mote ID: 0 - Received response 'hello 14' from fd00::212:4b00:1204:dd96
+Time: 950718 ms, Mote ID: 0 - Sending request 15 to fd00::212:4b00:1204:dd96
+Time: 950804 ms, Mote ID: 0 - Received response 'hello 15' from fd00::212:4b00:1204:dd96
+Time: 1010085 ms, Mote ID: 0 - Sending request 16 to fd00::212:4b00:1204:dd96
+Time: 1010132 ms, Mote ID: 0 - Received response 'hello 16' from fd00::212:4b00:1204:dd96
+Time: 1070632 ms, Mote ID: 0 - Sending request 17 to fd00::212:4b00:1204:dd96
+Time: 1070750 ms, Mote ID: 0 - Received response 'hello 17' from fd00::212:4b00:1204:dd96
+Time: 1130406 ms, Mote ID: 0 - Sending request 18 to fd00::212:4b00:1204:dd96
+Time: 1130468 ms, Mote ID: 0 - Received response 'hello 18' from fd00::212:4b00:1204:dd96
+Time: 1191109 ms, Mote ID: 0 - Sending request 19 to fd00::212:4b00:1204:dd96
+Time: 1191187 ms, Mote ID: 0 - Received response 'hello 19' from fd00::212:4b00:1204:dd96
+Time: 1251218 ms, Mote ID: 0 - Sending request 20 to fd00::212:4b00:1204:dd96
+Time: 1251312 ms, Mote ID: 0 - Received response 'hello 20' from fd00::212:4b00:1204:dd96

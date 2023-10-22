@@ -1,0 +1,74 @@
+[2023-10-14 20:38:59.761] [INFO: Main      ] Starting Contiki-NG-release/v4.4-97-g55dc08aab-dirty
+[2023-10-14 20:38:59.768] [INFO: Main      ] - Routing: RPL Lite
+[2023-10-14 20:38:59.768] [INFO: Main      ] - Net: sicslowpan
+[2023-10-14 20:38:59.771] [INFO: Main      ] - MAC: CSMA
+[2023-10-14 20:38:59.774] [INFO: Main      ] - 802.15.4 PANID: 0xabcd
+[2023-10-14 20:38:59.782] [INFO: Main      ] - 802.15.4 Default channel: 26
+[2023-10-14 20:38:59.785] [INFO: Main      ] Node ID: 30720
+[2023-10-14 20:38:59.788] [INFO: Main      ] Link-layer address: 0012.4b00.0f8e.7800
+[2023-10-14 20:38:59.791] [INFO: Main      ] Tentative link-local IPv6 address: fe80::212:4b00:f8e:7800
+[2023-10-14 20:38:59.802] [INFO: CC26xx/CC13xx] TI SmartRF06EB + CC26xx EM
+[2023-10-14 20:38:59.805] [INFO: CC26xx/CC13xx]  RF: Channel 26, PANID 0xABCD
+[2023-10-14 20:39:05.255] [INFO: App       ] Time: 5664 ms, Mote ID: 0 - Not reachable yet
+[2023-10-14 20:40:04.968] [INFO: App       ] Time: 65375 ms, Mote ID: 0 - Sending request 0 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:40:05.048] [INFO: App       ] Time: 65453 ms, Mote ID: 0 - Received response 'hello 0' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:41:05.080] [INFO: App       ] Time: 125492 ms, Mote ID: 0 - Sending request 1 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:41:05.211] [INFO: App       ] Time: 125617 ms, Mote ID: 0 - Received response 'hello 1' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:42:04.928] [INFO: App       ] Time: 185335 ms, Mote ID: 0 - Sending request 2 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:42:04.998] [INFO: App       ] Time: 185406 ms, Mote ID: 0 - Received response 'hello 2' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:43:04.736] [INFO: App       ] Time: 245148 ms, Mote ID: 0 - Sending request 3 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:43:04.799] [INFO: App       ] Time: 245210 ms, Mote ID: 0 - Received response 'hello 3' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:44:04.038] [INFO: App       ] Time: 304453 ms, Mote ID: 0 - Sending request 4 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:44:04.120] [INFO: App       ] Time: 304531 ms, Mote ID: 0 - Received response 'hello 4' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:45:03.460] [INFO: App       ] Time: 363875 ms, Mote ID: 0 - Sending request 5 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:45:03.549] [INFO: App       ] Time: 363960 ms, Mote ID: 0 - Received response 'hello 5' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:46:04.321] [INFO: App       ] Time: 424734 ms, Mote ID: 0 - Sending request 6 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:46:04.350] [INFO: App       ] Time: 424765 ms, Mote ID: 0 - Received response 'hello 6' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:47:04.907] [INFO: App       ] Time: 485328 ms, Mote ID: 0 - Sending request 7 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:47:05.017] [INFO: App       ] Time: 485437 ms, Mote ID: 0 - Received response 'hello 7' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:48:05.455] [INFO: App       ] Time: 545875 ms, Mote ID: 0 - Sending request 8 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:48:05.512] [INFO: App       ] Time: 545929 ms, Mote ID: 0 - Received response 'hello 8' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:49:04.636] [INFO: App       ] Time: 605054 ms, Mote ID: 0 - Sending request 9 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:49:04.707] [INFO: App       ] Time: 605125 ms, Mote ID: 0 - Received response 'hello 9' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:50:04.554] [INFO: App       ] Time: 664976 ms, Mote ID: 0 - Sending request 10 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:50:04.666] [INFO: App       ] Time: 665085 ms, Mote ID: 0 - Received response 'hello 10' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:51:04.638] [INFO: App       ] Time: 725062 ms, Mote ID: 0 - Sending request 11 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:51:04.720] [INFO: App       ] Time: 725140 ms, Mote ID: 0 - Received response 'hello 11' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:52:04.934] [INFO: App       ] Time: 785359 ms, Mote ID: 0 - Sending request 12 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:52:05.007] [INFO: App       ] Time: 785429 ms, Mote ID: 0 - Received response 'hello 12' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:53:05.416] [INFO: App       ] Time: 845843 ms, Mote ID: 0 - Sending request 13 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:53:05.459] [INFO: App       ] Time: 845882 ms, Mote ID: 0 - Received response 'hello 13' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:54:04.430] [INFO: App       ] Time: 904859 ms, Mote ID: 0 - Sending request 14 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:54:04.534] [INFO: App       ] Time: 904960 ms, Mote ID: 0 - Received response 'hello 14' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:55:03.510] [INFO: App       ] Time: 963937 ms, Mote ID: 0 - Sending request 15 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:55:03.612] [INFO: App       ] Time: 964039 ms, Mote ID: 0 - Received response 'hello 15' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:56:03.270] [INFO: App       ] Time: 1023703 ms, Mote ID: 0 - Sending request 16 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:56:03.364] [INFO: App       ] Time: 1023789 ms, Mote ID: 0 - Received response 'hello 16' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:57:03.130] [INFO: App       ] Time: 1083562 ms, Mote ID: 0 - Sending request 17 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:57:03.243] [INFO: App       ] Time: 1083671 ms, Mote ID: 0 - Received response 'hello 17' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:58:03.004] [INFO: App       ] Time: 1143437 ms, Mote ID: 0 - Sending request 18 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:58:03.100] [INFO: App       ] Time: 1143531 ms, Mote ID: 0 - Received response 'hello 18' from fd00::212:4b00:1204:dd96
+[2023-10-14 20:59:02.467] [INFO: App       ] Time: 1202906 ms, Mote ID: 0 - Sending request 19 to fd00::212:4b00:1204:dd96
+[2023-10-14 20:59:02.543] [INFO: App       ] Time: 1202976 ms, Mote ID: 0 - Received response 'hello 19' from fd00::212:4b00:1204:dd96
+[2023-10-14 21:00:02.487] [INFO: App       ] Time: 1262921 ms, Mote ID: 0 - Sending request 20 to fd00::212:4b00:1204:dd96
+[2023-10-14 21:00:02.550] [INFO: App       ] Time: 1262984 ms, Mote ID: 0 - Received response 'hello 20' from fd00::212:4b00:1204:dd96
+[2023-10-14 21:01:02.737] [INFO: App       ] Time: 1323179 ms, Mote ID: 0 - Sending request 21 to fd00::212:4b00:1204:dd96
+[2023-10-14 21:01:02.854] [INFO: App       ] Time: 1323289 ms, Mote ID: 0 - Received response 'hello 21' from fd00::212:4b00:1204:dd96
+[2023-10-14 21:02:01.744] [INFO: App       ] Time: 1382187 ms, Mote ID: 0 - Sending request 22 to fd00::212:4b00:1204:dd96
+[2023-10-14 21:02:01.827] [INFO: App       ] Time: 1382265 ms, Mote ID: 0 - Received response 'hello 22' from fd00::212:4b00:1204:dd96
+[2023-10-14 21:03:02.658] [INFO: App       ] Time: 1443101 ms, Mote ID: 0 - Sending request 23 to fd00::212:4b00:1204:dd96
+[2023-10-14 21:03:02.718] [INFO: App       ] Time: 1443156 ms, Mote ID: 0 - Received response 'hello 23' from fd00::212:4b00:1204:dd96
+[2023-10-14 21:04:03.227] [INFO: App       ] Time: 1503671 ms, Mote ID: 0 - Sending request 24 to fd00::212:4b00:1204:dd96
+[2023-10-14 21:04:03.303] [INFO: App       ] Time: 1503742 ms, Mote ID: 0 - Received response 'hello 24' from fd00::212:4b00:1204:dd96
+[2023-10-14 21:05:02.999] [INFO: App       ] Time: 1563445 ms, Mote ID: 0 - Sending request 25 to fd00::212:4b00:1204:dd96
+[2023-10-14 21:05:03.077] [INFO: App       ] Time: 1563515 ms, Mote ID: 0 - Received response 'hello 25' from fd00::212:4b00:1204:dd96
+[2023-10-14 21:06:03.560] [INFO: App       ] Time: 1624007 ms, Mote ID: 0 - Sending request 26 to fd00::212:4b00:1204:dd96
+[2023-10-14 21:06:03.652] [INFO: App       ] Time: 1624093 ms, Mote ID: 0 - Received response 'hello 26' from fd00::212:4b00:1204:dd96
+[2023-10-14 21:07:04.287] [INFO: App       ] Time: 1684734 ms, Mote ID: 0 - Sending request 27 to fd00::212:4b00:1204:dd96
+[2023-10-14 21:07:04.424] [INFO: App       ] Time: 1684867 ms, Mote ID: 0 - Received response 'hello 27' from fd00::212:4b00:1204:dd96
+[2023-10-14 21:08:04.397] [INFO: App       ] Time: 1744843 ms, Mote ID: 0 - Sending request 28 to fd00::212:4b00:1204:dd96
+[2023-10-14 21:08:04.461] [INFO: App       ] Time: 1744906 ms, Mote ID: 0 - Received response 'hello 28' from fd00::212:4b00:1204:dd96
+[2023-10-14 21:09:05.146] [INFO: App       ] Time: 1805593 ms, Mote ID: 0 - Sending request 29 to fd00::212:4b00:1204:dd96
+[2023-10-14 21:09:05.225] [INFO: App       ] Time: 1805671 ms, Mote ID: 0 - Received response 'hello 29' from fd00::212:4b00:1204:dd96
+[2023-10-14 21:10:04.718] [INFO: App       ] Time: 1865171 ms, Mote ID: 0 - Sending request 30 to fd00::212:4b00:1204:dd96
+[2023-10-14 21:10:04.801] [INFO: App       ] Time: 1865250 ms, Mote ID: 0 - Received response 'hello 30' from fd00::212:4b00:1204:dd96
